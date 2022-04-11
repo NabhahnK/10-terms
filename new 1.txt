@@ -1,0 +1,30 @@
+SAST:
+	Is a way to test code before it can even run to find weakness in security. it can be used with its own gui and can help speed up progress down the road because you
+	dont have to fix issues you passed over.
+	
+MuleSoft:
+	Is a company that provides the service of intergrating or connecting diffrent bits of software or data across platformes including legacy.
+	
+jQuery:
+	Is a library that is surpossed to simplify the manipulation of HTML and eveent handling.
+	
+Entity Framework:
+	Is a part of ADO.NET, and is a mapping framework.
+	
+scrum development:
+	Is a development plan that lets small teams produce software in a goal oriented way.
+	
+agile development:
+	Any development process that follows the ideas of Agile Manifesto.
+	
+angular:
+	Is an open-source framework for making mobile and desktop aplplications easier.
+	
+vue.js:
+	Is an open-source aplplication that focuses on the gui of a website while meeting the standards of web-development.
+	
+ASP.NET:
+	is an open-source software on the server side to help produce dynamic websites.
+	
+JEE java:
+	is an extension of the java platform.
